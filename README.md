@@ -52,7 +52,3 @@ nyc-taxi-tableau-qlik-analytics/
  * Borough Revenue Ranking: Horizontal sorted bar chart illustrating total revenue generation across boroughs, paired with direct bar labels to reduce visual clutter.
  * Payment Method Distribution: Bar comparison visualizing the volume split between cash and card transactions.
  * Interactive Dashboard Actions: Configured cross-filtering actions so clicking any borough or time block dynamically filters all companion views.
-2. Qlik Sense Implementation
- * Associative In-Memory Model: Built on Qlik's Green/White/Gray associative logic, allowing immediate exploration of indirect relationships and non-selected data points without query delays.
- * Executive KPI Panel: Top-level metric cards tracking Sum(total), Avg(distance), and Count(pickup) that instantly recompute upon any filter selection.
- * Interactive Filter Panes: Dropdown dimensions for pickup_borough and payment enabling multi-attribute drill-downs across all visual objects.
