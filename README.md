@@ -20,10 +20,8 @@ An end-to-end business intelligence and data visualization project analyzing New
 nyc-taxi-tableau-qlik-analytics/
 ├── data/
 │   ├── taxis_cleaned.csv            # Cleaned NYC TLC ride-level dataset
-│   └── taxi-zone-lookup.csv         # NYC TLC zone and borough dimensional lookup
 ├── assets/
 │   ├── tableau_dashboard.png        # High-resolution screenshot of the Tableau dashboard
-│   └── qlik_dashboard.png           # High-resolution screenshot of the Qlik Sense application
 ├── tableau/
 │   └── nyc_taxi_analysis.twbx       # Packaged Tableau Workbook
 └── README.md                        # Complete project documentation.
