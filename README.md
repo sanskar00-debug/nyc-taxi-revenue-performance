@@ -27,7 +27,7 @@ nyc-taxi-tableau-qlik-analytics/
 └── README.md                        # Complete project documentation.
 ```
 
-# 📊 Business Insights & Key Findings
+## 📊 Business Insights & Key Findings
  * Manhattan Drives the Bulk of Revenue:
    * Manhattan generates $87,899.80 (74.4% of total platform revenue).
    * Queens ranks second with $20,771.89 (17.6%), heavily driven by long-haul airport transit to and from JFK and LaGuardia.
@@ -43,7 +43,7 @@ nyc-taxi-tableau-qlik-analytics/
    * Demand peaks sharply between 17:00 and 20:00 (5:00 PM – 8:00 PM) on weekdays, aligning with corporate transit hours.
    * Friday and Saturday evenings sustain elevated demand past midnight, signaling weekend entertainment travel.
    
-# 🛠️ Dashboard Architecture
+## 🛠️ Dashboard Architecture
 1. Tableau Implementation
  * Hourly Demand Heatmap: Maps trip counts across a discrete 7 x 24 grid (Weekday vs. Hour of Day) with diverging color gradients to highlight peak congestion windows.
  * Distance vs. Fare Scatter Plot: Plotted at the individual trip level (disaggregated) with opacity and borders applied to show density, outliers, and flat-rate fares categorized by payment type.
