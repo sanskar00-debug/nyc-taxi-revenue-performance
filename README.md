@@ -1,16 +1,16 @@
 
 # 🚖 NYC Taxi Performance & Revenue Visual Analytics
 
-An end-to-end business intelligence and data visualization project analyzing New York City taxi ride patterns, revenue dynamics, consumer payment preferences, and hourly demand distributions across boroughs using **Tableau** and **Qlik Sense**.
+An end-to-end business intelligence and data visualization project analyzing New York City taxi ride patterns, revenue dynamics, consumer payment preferences, and hourly demand distributions across boroughs using **Tableau**.
 
 ---
 
 ## 📌 Project Overview
 
-* **Dataset Size:** 6,404 cleaned trip records
-* **Total Gross Revenue Analyzed:** $118,190.63
-* **Primary Tools:** Tableau Desktop / Tableau Public, Qlik Sense, CSV
-* **Core Metrics Tracked:** Total Fare Revenue, Average Distance per Trip, Hourly Demand Density, Payment Share, and Geographic Concentration
+* **Dataset Size:** 6,404 cleaned trip records.
+* **Total Gross Revenue Analyzed:** $118,190.63.
+* **Primary Tools:** Tableau Desktop / Tableau Public, CSV.
+* **Core Metrics Tracked:** Total Fare Revenue, Average Distance per Trip, Hourly Demand Density, Payment Share, and Geographic Concentration.
 
 ---
 
@@ -19,13 +19,22 @@ An end-to-end business intelligence and data visualization project analyzing New
 ```text
 nyc-taxi-tableau-qlik-analytics/
 ├── data/
-│   ├── taxis_cleaned.csv            # Cleaned NYC TLC ride-level dataset
+│   ├── taxis_cleaned.csv                      # Cleaned NYC TLC ride-level dataset.
 ├── assets/
-│   ├── tableau_dashboard.png        # High-resolution screenshot of the Tableau dashboard
+│   ├── tableau_dashboard.png                  # High-resolution screenshot of the Tableau dashboard.
 ├── tableau/
-│   └── nyc_taxi_analysis.twbx       # Packaged Tableau Workbook
-└── README.md                        # Complete project documentation.
+│   ├── NYC Taxi Revenue Analytics.twbx        # Deep-dive exploratory & scatter analysis.
+│   └── NYC Taxi Revenue Performance.twbx      # Executive card-style KPI dashboard.
+└── README.md                                  # Complete project documentation.
 ```
+## 📂 Tableau Workbooks Included
+
+1. **`NYC Taxi Revenue Performance.twbx` (Executive View):**
+   * High-level KPI summary cards (`Total Revenue`, `Total Trips`, `Avg Distance`, `Avg Fare`).
+   * Clean modern card UI with integrated navigation and borough breakdown.
+2. **`NYC Taxi Revenue Analytics.twbx` (Exploratory View):**
+   * Detailed rate curve analysis (distance vs. fare scatter distribution).
+   * 7×24 hourly demand congestion heatmap and granular payment splits.
 
 ## 📊 Business Insights & Key Findings
  * Manhattan Drives the Bulk of Revenue:
