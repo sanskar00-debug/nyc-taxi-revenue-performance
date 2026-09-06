@@ -1,4 +1,4 @@
-Here is the complete project README wrapped inside a single copyable raw markdown code block so your formatting and headings stay intact:
+
 # 🚖 NYC Taxi Performance & Revenue Visual Analytics
 
 An end-to-end business intelligence and data visualization project analyzing New York City taxi ride patterns, revenue dynamics, consumer payment preferences, and hourly demand distributions across boroughs using **Tableau** and **Qlik Sense**.
