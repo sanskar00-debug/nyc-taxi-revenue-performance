@@ -3,7 +3,7 @@
 
 An end-to-end business intelligence and data visualization project analyzing New York City taxi ride patterns, revenue dynamics, consumer payment preferences, and hourly demand distributions across boroughs using **Tableau**.
 
-![Tableau](https://img.shields.io/badge/Tableau-public-E97627?style=for-the-badge&logo=Tableau&logoColor=Navy Blue)
+![Tableau](https://img.shields.io/badge/Tableau-public-E97627?style=for-the-badge&logo=Tableau&logoColor=NavyBlue)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0+-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Analytics](https://img.shields.io/badge/Data_Analytics-red?style=for-the-badge)
 
