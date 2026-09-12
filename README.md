@@ -5,6 +5,7 @@ An end-to-end business intelligence and data visualization project analyzing New
 
 ![Tableau](https://img.shields.io/badge/Tableau-public-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0+-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python)
 ![Analytics](https://img.shields.io/badge/Data_Analytics-red?style=for-the-badge)
 
 ---
